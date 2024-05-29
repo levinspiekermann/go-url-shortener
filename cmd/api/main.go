@@ -10,7 +10,6 @@ import (
 )
 
 func main() {
-
 	server := server.New()
 
 	server.RegisterFiberRoutes()
